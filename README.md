@@ -19,11 +19,11 @@
 
 | Project | What it is |
 | --- | --- |
+| **[Oculus](https://github.com/Tchanwangsa/oculus)** *(WIP)* | macOS app that turns your Canvas, Ed and Echo360 coursework into a local, searchable knowledge base a coding agent can answer against. Rust + Tauri. |
+| **[Connect3](https://connect3.app)** *(private)* | The platform for uni clubs - student discovery, event ticketing and a committee admin console, all in one app. |
 | **[Zetajam](https://zetajam.vercel.app)** · [repo](https://github.com/Tchanwangsa/zetajam) | Mental arithmetic, head to head game with Go WebSocket server and a Svelte frontend. |
 | **[DSCubed Website](https://dscubed.org.au)** · [repo](https://github.com/dscubed/dscubed-website) | The home of UniMelb's Data Science Student Society for ~1k students. |
-| **[Connect3](https://connect3.app)** *(private)* | The platform for uni clubs - student discovery, event ticketing and a committee admin console, all in one app. |
 | **[EasyRCPT](https://easyrcpt.onrender.com)** *(WIP)* · [repo](https://github.com/easyRCPT/research-cost-and-pricing) | Django + React rebuild of UniMelb's Research Costing & Pricing workbook as a part of [COMP30022](https://handbook.unimelb.edu.au/2026/subjects/comp30022). |
-| **[Oculus](https://github.com/Tchanwangsa/oculus)** *(WIP)* | macOS app that turns your Canvas, Ed and Echo360 coursework into a local, searchable knowledge base a coding agent can answer against. Rust + Tauri. |
 | **[ScribeCode](https://github.com/Tchanwangsa/scribecode)** | A Claude Code skill that flips the roles: the agent plans one feature slice at a time, you type the code. |
 
 ---
