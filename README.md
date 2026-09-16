@@ -8,10 +8,10 @@
 
 ---
 
-🎓 **CS @ Unimelb**, 2024–2026  
-💼 **Currently** — vibecoding whatever my mind can come up with  
-⛷️ **Off the keyboard** — football, skiing, running, travelling  
-📫 **Reach me** — [LinkedIn](https://www.linkedin.com/in/tanat-chanwangsa/)
+🎓 **CS @ Unimelb** : 2024–2026  
+💼 **Currently** : vibecoding whatever my mind can come up with  
+⛷️ **Off the keyboard** : football, skiing, running, travelling  
+📫 **Reach me** : [LinkedIn](https://www.linkedin.com/in/tanat-chanwangsa/)
 
 ---
 
@@ -51,11 +51,4 @@
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black">
-</p>
-
----
-
-<p align="center">
-  <img alt="Tanat's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Tchanwangsa&show_icons=true&hide_border=true&theme=transparent&hide_title=true" height="150">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tchanwangsa&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="150">
 </p>
