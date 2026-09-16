@@ -6,12 +6,12 @@
   <a href="https://zetajam.vercel.app"><img alt="Zetajam" src="https://img.shields.io/badge/play%20zetajam-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"></a>
 </p>
 
----
-
-🎓 **CS @ Unimelb** : 2024–2026  
-💼 **Currently** : vibecoding whatever my mind can come up with  
-⛷️ **Off the keyboard** : football, skiing, running, travelling  
-📫 **Reach me** : [LinkedIn](https://www.linkedin.com/in/tanat-chanwangsa/)
+<p align="center">
+  🎓 <b>CS @ Unimelb</b> : 2024–2026<br>
+  💼 <b>Currently</b> : vibecoding whatever my mind can come up with<br>
+  ⛷️ <b>Off the keyboard</b> : football, skiing, running, travelling<br>
+  📫 <b>Reach me</b> : <a href="https://www.linkedin.com/in/tanat-chanwangsa/">LinkedIn</a>
+</p>
 
 ---
 
@@ -23,7 +23,7 @@
 | **[Connect3](https://connect3.app)** *(private)* | The platform for uni clubs - student discovery, event ticketing and a committee admin console, all in one app. |
 | **[Zetajam](https://zetajam.vercel.app)** · [repo](https://github.com/Tchanwangsa/zetajam) | Mental arithmetic, head to head game with Go WebSocket server and a Svelte frontend. |
 | **[DSCubed Website](https://dscubed.org.au)** · [repo](https://github.com/dscubed/dscubed-website) | The home of UniMelb's Data Science Student Society for ~1k students. |
-| **[EasyRCPT](https://easyrcpt.onrender.com)** *(WIP)* · [repo](https://github.com/easyRCPT/research-cost-and-pricing) | Django + React rebuild of UniMelb's Research Costing & Pricing workbook as a part of [COMP30022](https://handbook.unimelb.edu.au/2026/subjects/comp30022). |
+| **[EasyRCPT](https://easyrcpt.onrender.com)** *(WIP)* · [repo](https://github.com/easyRCPT/research-cost-and-pricing) | Django + React rebuild of [UniMelb's Research Costing & Pricing workbook](https://policy.unimelb.edu.au/MPF1347/) as a part of [COMP30022](https://handbook.unimelb.edu.au/2026/subjects/comp30022). |
 | **[ScribeCode](https://github.com/Tchanwangsa/scribecode)** | A Claude Code skill that flips the roles: the agent plans one feature slice at a time, you type the code. |
 
 ---
